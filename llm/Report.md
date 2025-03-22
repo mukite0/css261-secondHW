@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4494ad1d-f4bd-4d35-ae02-bd3c32912cc7)## First lab
+## First lab
 As we enter the lab, we dont have access to anything than to just browse products or chat to ai assistant. The last one will be helpfull for us.
 We neter the live chat and ask it what apis does he use. 
 >     Arti Ficial:	I have access to the following functions in the "functions" namespace:
